@@ -1,8 +1,8 @@
 {
   "name": "ohkaca",
   "description": "Cache torrent to an http",
-  "website": "https://github.com/azamaulanaaa/ohkaca",
-  "repository": "https://github.com/azamaulanaaa/ohkaca",
+  "website": "https://github.com/kokoamartin/lolop",
+  "repository": "https://github.com/kokoamartin/lolop",
   "stack": "container",
   "formation": {
     "web": {
